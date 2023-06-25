@@ -1,0 +1,8 @@
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\SMSActivate-Net.API.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\SMSActivate-Net.API.pdb
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\RestSharp.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\System.Text.Encodings.Web.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\System.Text.Json.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\publish\SMSActivate-Net.API.deps.json

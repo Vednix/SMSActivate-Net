@@ -1,0 +1,13 @@
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\SMSActivate-Net.API.deps.json
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\SMSActivate-Net.API.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\bin\Release\net6.0\SMSActivate-Net.API.pdb
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.AssemblyInfo.cs
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.csproj.Fody.CopyLocal.cache
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\refint\SMSActivate-Net.API.dll
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\SMSActivate-Net.API.pdb
+C:\Users\dev\Documents\GitHub\SMSActivate-Net\SMSActivate-Net\SMSActivate-Net.API\obj\Release\net6.0\ref\SMSActivate-Net.API.dll
